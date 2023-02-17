@@ -1,0 +1,13 @@
+Needs:
+Menus and idiotproofing (priority low)
+Address class (priority high)
+Package class (priority high)
+PostageCalculator class (priority medium)
+PackageSimulator class (priority medium)
+Runner class (priority low)
+
+Address:
+find out what a ZIP code is
+3 constructors
+toString
+E
